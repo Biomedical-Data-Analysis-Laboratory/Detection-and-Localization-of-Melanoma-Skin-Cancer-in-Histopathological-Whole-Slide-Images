@@ -1,5 +1,5 @@
 # Melanoma-Diagnosis-and-Localization-from-Whole-Slide-Images-using-Convolutional-Neural-Networks
-Link to the paper: https://arxiv.org/pdf/2302.03014.pdf
+## Link to the paper: https://arxiv.org/pdf/2302.03014.pdf
 
 This repository requires access to the following:
 
